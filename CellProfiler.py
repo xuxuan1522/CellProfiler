@@ -10,7 +10,7 @@ Please see the AUTHORS file for credits.
 
 Website: http://www.cellprofiler.org
 """
-
+#备注
 import h5py
 import logging
 import logging.config
